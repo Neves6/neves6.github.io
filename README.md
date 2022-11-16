@@ -21,3 +21,9 @@ Generated delivarables can be found below.
 |----------|----------------|
 | [CODE]() | Code           |
 | [JAR]()  | Executable JAR |
+
+# Motivation
+
+## Cat Memes
+
+![Stop talking](https://pbs.twimg.com/media/FH4u3mFXsAc6KXg.png)
