@@ -20,4 +20,4 @@ Generated delivarables can be found below.
 | File     | Description    |
 |----------|----------------|
 | [CODE]() | Code           |
-| [JAR]() | Executable JAR |
+| [JAR]()  | Executable JAR |
