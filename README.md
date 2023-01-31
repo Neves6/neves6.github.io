@@ -9,5 +9,5 @@ This is the main page for Team 6, going under the current operating nickname of 
 | Page                             | Description                                    |
 |----------------------------------|------------------------------------------------|
 | [Deliverables](/deliverables.md) | Links to all attached deliverables             |
-| [Cat Memes](/catmemes.md)        | Cat memes for motivation                       |
 | [Project Progression](/gantt.md) | Links to weekly versions of project Gantt chart|
+| [Cat Memes](/catmemes.md)        | Cat memes for motivation                       |
