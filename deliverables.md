@@ -19,7 +19,7 @@ Generated delivarables can be found below.
 
 | File     | Description    |
 |----------|----------------|
-| [CODE]() | Code           |
-| [JAR]()  | Executable JAR |
+| [CODE](/deliverables/PiazzaPanic1.zip) | Code           |
+| [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
 
 [← back to main page](/README.md)
